@@ -1,6 +1,6 @@
 # Laboratorium 8: regresja – ile wyda klient, który zostaje?
 
-Eksploracja danych · zajęcia 8 · Karol Jasianek
+Eksploracja danych · zajęcia 8 · Karol Jasianek, Kacper Strasiński
 
 ## Co oddaję
 
